@@ -1,5 +1,5 @@
 {
-    "name": "Mesh Rename Bot",
+    "name": "HKC Rename Bot",
     "description": "This bot is aimed to be the best rename bot around.",
     "keywords": [
       "rename bot",
@@ -82,7 +82,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
